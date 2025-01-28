@@ -1,0 +1,7 @@
+"title": "",
+"artist": "",
+"source": "files/mp3/",
+"img": "files/img/",
+"color": "#",
+"color2": "#",
+"lyrics": "files/txt/"

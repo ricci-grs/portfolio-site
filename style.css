@@ -1,0 +1,176 @@
+body {
+    font-family: "Song Myung", serif;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    position: relative;
+}
+
+a {
+    color: #000;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#bckg {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1000;
+}
+
+#bckg-color {
+    filter: blur(80px);
+    height: 100%;
+    width: 100%;
+}
+
+#bckg-wrap {
+    filter: blur(80px);
+    position: absolute;
+    top: 350px;
+    transform: scale(1);
+    width: 1500px;
+    z-index: -1;
+}
+
+#page-wrap {
+    background-color: transparent;
+    z-index: 10;
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.music-btn {
+    background-color: #4cceff;
+    border-radius: 12px;
+    height: 120px;
+    width: 400px;
+}
+
+h1, h3 {
+    font-size: 100px;
+    margin: 0;
+}
+
+img {
+    width: 80px;
+}
+
+.pm {
+    width: 50px;
+}
+
+#album {
+    width: 1026px;
+}
+
+#play {
+    width: 150px;
+}
+
+#head-btns, #song, #main-btns, .header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#head-btns {
+    height: 200px;
+    padding: 0 50px;
+}
+
+#dropdown-content {
+    background-color: #fff;
+    box-shadow: 0px 8px 16px 0px;
+    display: none;
+    min-width: 100px;
+    position: absolute;
+    text-align: center;
+}
+
+#dropdown-content a {
+    display: block;
+    padding: 12px 16px;
+}
+
+#dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+#dropdown:hover #dropdown-content {
+    display: block;
+}
+
+.header {
+    background-color: #fc9826;
+    height: 100px;
+    padding: 0 50px;
+}
+
+#song, #main-btns, #values {
+    padding: 0 50px;
+}
+
+#cover, #main, #copyright, #plst-selector {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#main, #plst-selector {
+    background-image: url("files/img/music.png");
+    height: 750px;
+}
+
+#plst-list {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-between;
+}
+
+#lyrics {
+    display: flex;
+    justify-content: center;
+    margin: 60px 200px;
+}
+
+#barra {
+    display: flex;
+    justify-content: center;
+    margin: 60px 200px 10px 200px;
+}
+
+#values {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px 200px;
+}
+
+#bar {
+    accent-color: #000;
+    height: 25px;
+    opacity: 0.7;
+    outline: none;
+    width: 100%;
+}
+
+#bar:hover {
+    opacity: 1;
+}
+
+.nav-element {
+    margin: 0px 20px;
+}

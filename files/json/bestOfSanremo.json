@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Il ballo delle incertezze",
+        "artist": "Ultimo",
+        "source": "files/mp3/ilBalloDelleIncertezze.mp3",
+        "img": "files/img/ilBalloDelleIncertezze.png",
+        "color": "#c7c0a3",
+        "color2": "#17181d",
+        "lyrics": "files/txt/ilBalloDelleIncertezze.txt"
+    },
+    {
+        "title": "Nel blu dipinto di blu",
+        "artist": "Domenico Modugno",
+        "source": "files/mp3/nelBluDipintoDiBlu.mp3",
+        "img": "files/img/collectionModugno.png",
+        "color": "#c3beaa",
+        "color2": "#010002",
+        "lyrics": "files/txt/nelBluDipintoDiBlu.txt"
+    },
+    {
+        "title": "Per sentirmi vivo",
+        "artist": "Fasma",
+        "source": "files/mp3/perSentirmiVivo.mp3",
+        "img": "files/img/ioSonoFasma.png",
+        "color": "#e8e8e8",
+        "color2": "#d91413",
+        "lyrics": "files/txt/perSentirmiVivo.txt"
+    }
+]

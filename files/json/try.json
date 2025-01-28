@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Bad Liar",
+        "artist": "Imagine Dragons",
+        "source": "files/mp3/badLiar.mp3",
+        "img": "files/img/origins.png",
+        "color": "#33773a",
+        "color2": "#34615e",
+        "lyrics": "files/txt/badLiar.txt"
+    },
+    {
+        "title": "Adore You",
+        "artist": "Miley Cyrus",
+        "source": "files/mp3/adoreYou.mp3",
+        "img": "files/img/bangerz.png",
+        "color": "#8a739d",
+        "color2": "#96959a",
+        "lyrics": "files/txt/adoreYou.txt"
+    },
+    {
+        "title": "Lovers on the Sun",
+        "artist": "David Guetta",
+        "source": "files/mp3/loversOnTheSun.mp3",
+        "img": "files/img/listen.png",
+        "color": "#da0517",
+        "color2": "#030301",
+        "lyrics": "files/txt/loversOnTheSun.txt"
+    }
+]
